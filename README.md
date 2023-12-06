@@ -1,2 +1,2 @@
 # Python_Projects
-These are the projects of EDA with python
+This is the project of Capital Asset Pricing Model with python
